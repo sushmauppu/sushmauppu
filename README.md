@@ -4,10 +4,10 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="banner" width="600" />
 </div>
 
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sushmauppu.sushmauppu&left_text=Profile%20Views" alt="Profile Views" height="30" />
 </div>
-
 
 ## 🌟 About Me  
 
